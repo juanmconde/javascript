@@ -1,0 +1,21 @@
+{
+    "workbench.colorCustomizations": {
+      "editor.background": "#1E1E1E",                // Fondo del editor en un gris oscuro
+      "editor.foreground": "#D4D4D4",                // Color del texto en un gris claro
+      "editor.selectionBackground": "#264F78",       // Fondo de la selección en un azul suave
+      "editor.lineHighlightBackground": "#333333",   // Fondo de la línea actual en un gris oscuro sutil
+      "editorCursor.foreground": "#DCDCAA",          // Color del cursor en un amarillo suave
+      "editorWhitespace.foreground": "#3B3B3B",      // Color de espacios en blanco visibles
+      "editorIndentGuide.activeBackground": "#707070", // Guía de indentación activa en un gris claro
+      "editor.selectionHighlightBackground": "#264F78", // Fondo para selecciones resaltadas
+      "editorBracketMatch.border": "#569CD6"         // Bordes de coincidencia de paréntesis en azul
+    },
+    "workbench.colorTheme": "One Dark Pro",      // Tema de color general
+    "workbench.iconTheme": "vs-minimal",               // Tema de iconos minimalista
+    "zenMode.silentNotifications": true,               // Notificaciones en modo Zen desactivadas
+    "emmet.triggerExpansionOnTab": true,               // Expansión con Emmet al presionar Tab
+    "emmet.includeLanguages": {
+      "javascript": "html"
+    }
+  }
+  
